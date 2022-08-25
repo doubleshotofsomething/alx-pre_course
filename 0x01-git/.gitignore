@@ -1,0 +1,2 @@
+core.excludesFile
+exclude ~ files from git push
